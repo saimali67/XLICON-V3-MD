@@ -16,10 +16,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+ //  * @project_name : XAMI-V3-MD
+ //  * @author : SAIMALIytofficial
+ //  * @youtube : XAMIPASHA
+//   * @description : XAMI-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
@@ -27,8 +27,8 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//WhatsApp: +923451452119
+//want more free bot scripts? subscribe to my youtube channel: XAMI.PASHA.NOOB.HACKER
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
